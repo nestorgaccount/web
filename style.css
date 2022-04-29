@@ -80,7 +80,20 @@ button-hover{
 {
   display: block;
 }
+.dropdown-content2
+{
+  display: none;
+  position: absolute;
+  width: 200%;
+  overflow: auto;
+  padding: 20px 10px;
+  z-index: 1;
+}
+.dropdown:hover .dropdown-content2
+{
+  display: block;
 
+}
 *
 {
   margin: auto;
