@@ -82,13 +82,13 @@ button-hover{
 }
 .dropdown2
 {
-  position: relative;
+  position: center;
   display: inline-block; 
 } 
 .dropdown-content2
 {
   display: none;
-  position: absolute;
+  position: center;
   width: 200%;
   overflow: auto;
   padding: 20px 10px;
