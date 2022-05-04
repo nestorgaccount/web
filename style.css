@@ -79,6 +79,11 @@ button-hover{
 .dropdown:hover .dropdown-content
 {
   display: block;
+  background-color: black;
+  opacity: 0.8;
+  border-style: solid;
+  border: round;
+  margin: auto;
 }
 
 *
@@ -127,3 +132,4 @@ section .navigation li img :hover
   width: 200px;
 
 }
+
