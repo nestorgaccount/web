@@ -19,7 +19,7 @@ li, a, button {
 header{
   display: flex;
   justify-content:space-between;
-  align-self: center;
+  align-self: auto;
   padding: 10px 12%;
 
 }
