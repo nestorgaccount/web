@@ -15,7 +15,12 @@ li, a, button {
   text-decoration: none; 
 
 }
-
+ body {
+        background-color: black;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: 100% 100%;
+      }
 header{
   display: flex;
   justify-content:space-between;
